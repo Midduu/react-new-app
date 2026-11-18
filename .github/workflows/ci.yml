@@ -1,4 +1,3 @@
-```yaml
 name: ReactNewApp CI
 
 on:
@@ -38,4 +37,3 @@ jobs:
         with:
           name: react-production-build
           path: dist/
-```
